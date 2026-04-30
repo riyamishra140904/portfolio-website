@@ -38,7 +38,7 @@ portfolio/
 
 ## 📸 Screenshots
 
-<img width="1878" height="909" alt="Screenshot 2026-04-29 211556" src="https://github.com/user-attachments/assets/e152d5d0-1a18-4004-9780-61d552ecbc35" />
+<img width="1861" height="903" alt="Screenshot 2026-04-30 210600" src="https://github.com/user-attachments/assets/331f338e-a42e-4702-be5d-a5f650f190a7" />
 <img width="1853" height="910" alt="Screenshot 2026-04-29 211638" src="https://github.com/user-attachments/assets/d8daa2fb-4beb-462b-9578-80d2e409a8af" />
 <img width="1829" height="872" alt="Screenshot 2026-04-29 211659" src="https://github.com/user-attachments/assets/0551559e-bcb7-478c-9c96-2f7fce26f785" />
 
